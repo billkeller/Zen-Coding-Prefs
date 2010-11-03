@@ -30,7 +30,7 @@ var zen_settings = {
 			"pos:a": "position: absolute;",
 			"pos:r": "position: relative;",
 			"pos:f": "position: fixed;",
-			"t": "top: test|;",
+			"t": "top: |;",
 			"t:a": "top: auto;",
 			"r": "right: |;",
 			"r:a": "right: auto;",
