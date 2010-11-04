@@ -36,7 +36,7 @@ var zen_settings = {
 			"r:a": "right: auto;",
 			"b": "bottom: |;",
 			"b:a": "bottom: auto;",
-			"l": "left: |;",
+			"l": "left: |px;",
 			"l:a": "left: auto;",
 			"z": "z-index: |;",
 			"z:a": "z-index: auto;",
