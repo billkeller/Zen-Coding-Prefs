@@ -492,7 +492,8 @@ var zen_settings = {
 			"pgba:l": "page-break-after: left;",
 			"pgba:r": "page-break-after: right;",
 			"orp": "orphans: |;",
-			"wid": "widows: |;"
+			"wid": "widows: |;",
+			"con": "console.log('|');"
 		}
 	},
 	
