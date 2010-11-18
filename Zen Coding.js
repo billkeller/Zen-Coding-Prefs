@@ -492,8 +492,7 @@ var zen_settings = {
 			"pgba:l": "page-break-after: left;",
 			"pgba:r": "page-break-after: right;",
 			"orp": "orphans: |;",
-			"wid": "widows: |;",
-			"con": "console.log('|');"
+			"wid": "widows: |;"
 		}
 	},
 	
@@ -668,6 +667,7 @@ var zen_settings = {
 			'out': '<output></output>',
 			'det': '<details></details>',
 			'cmd': '<command></command>',
+			'con': 'console.log('|');',
 			
 			// expandos
 			'ol+': 'ol>li',
