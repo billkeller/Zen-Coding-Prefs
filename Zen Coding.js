@@ -410,7 +410,7 @@ var zen_settings = {
 			"wow:s": "word-wrap:suppress;",
 			"lts": "letter-spacing: |;",
 			"f": "font: |;",
-			"f+": "font: bold 10px arial, helvetica, verdana, sans-serif;",
+			"f+": "font: bold 10px Helvetica, Arial, sans-serif;",
 			"fw": "font-weight: |;",
 			"fw:n": "font-weight: normal;",
 			"fw:b": "font-weight: bold;",
